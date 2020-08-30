@@ -56,7 +56,7 @@ AAMD uses IBM Watson Tone Analyzer and Microsoft Emotion API to detect emotions 
 
 ### Install
 
-`sudo pip install Autism_Treatment_Assistance`
+`sudo pip install AAMD`
 
 ### Usage
 
